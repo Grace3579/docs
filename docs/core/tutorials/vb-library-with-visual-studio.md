@@ -1,5 +1,5 @@
 ---
-title: Build a Visual Basic .NET Standard class library in Visual Studio 2017
+title: Create and Build a Visual Basic .NET Standard class library in Visual Studio 2017
 description: Learn how to build a .NET Standard class library written in Visual Basic using Visual Studio 2017
 author: rpetrusha
 ms.author: ronpet
@@ -8,7 +8,7 @@ dev_langs:
   - "vb"
 ms.custom: "vs-dotnet, seodec18"
 ---
-# Build a .NET Standard library with Visual Basic and the .NET Core SDK in Visual Studio 2017
+# Create and Build a .NET Standard library with Visual Basic and the .NET Core SDK in Visual Studio 2017
 
 A *class library* defines types and methods that are called by an application. A class library that targets the .NET Standard 2.0 allows your library to be called by any .NET implementation that supports that version of the .NET Standard. When you finish your class library, you can decide whether you want to distribute it as a third-party component or whether you want to include it as a bundled component with one or more applications.
 
