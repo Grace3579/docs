@@ -1,6 +1,6 @@
 ---
 title: .NET Core Hello World application with Visual Basic in Visual Studio 2017
-description: Learn how to build a simple .NET Core console application with Visual Basic using Visual Studio 2017.
+description: Learn how to create and build a simple .NET Core console application with Visual Basic using Visual Studio 2017.
 author: rpetrusha
 ms.author: ronpet
 ms.date: 08/07/2017
@@ -8,7 +8,7 @@ dev_langs:
   - "vb"
 ms.custom: "vs-dotnet, seodec18"
 ---
-# Build a Visual Basic Hello World application with the .NET Core SDK in Visual Studio 2017
+# Create and Build a Visual Basic Hello World application with the .NET Core SDK in Visual Studio 2017
 
 This topic provides a step-by-step introduction to building, debugging, and publishing a simple .NET Core console application using Visual Basic in Visual Studio 2017. Visual Studio 2017 provides a full-featured development environment for building .NET Core applications. As long as the application doesn't have platform-specific dependencies, the application can run on any platform that .NET Core targets and on any system that has .NET Core installed.
 
